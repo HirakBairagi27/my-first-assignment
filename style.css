@@ -1,4 +1,4 @@
-body{
+body{ margin: 5px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 h1{
@@ -14,13 +14,62 @@ h1{
 }
 
 .half-width{
-    width: 40%;
+    width: 30%;
     float: left;
-    margin: 4%;
+    margin: 5%;
     padding: 2%;
 
 }
 .half-width img{
     width: 100%;
+    height: 100%;
     
 }
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.click-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 5%;
+    font-weight: 700;
+    font-weight: bold;
+}
+#word-lighting{
+    color: tomato;
+}
+#my-project{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.image-dec{ 
+    background-color: gray;
+    float: left;
+    width: 25%;
+    padding: 10px;
+    margin: 40px;
+    border-radius: 10px;
+}
+.image-dec img{
+    width: 100%;
+    height: 100%;
+}
+ h3{
+     color: orange;
+
+ }
+ .experience-para{
+     color: lime;
+ }
+ .inquiry-section{
+     background-image: url("images/Group_33094_1.png");
+     width: 400px;
+     height: 100px;
+     
+
+ }
+ 
