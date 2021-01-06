@@ -1,0 +1,26 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+#first-heading{
+    color: orange;
+
+}
+
+#name-highlight{
+    color: limegreen;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+
+}
+.half-width img{
+    width: 100%;
+    
+}
