@@ -25,7 +25,7 @@ h1{
     height: 100%;
     
 }
-section{
+.bannar{
     height: 500px;
     padding-bottom: 150px;
 }
@@ -35,7 +35,6 @@ section{
     background-color: tomato;
     padding: 10px 20px;
     border-radius: 5%;
-    font-weight: 700;
     font-weight: bold;
 }
 #word-lighting{
@@ -65,11 +64,44 @@ section{
  .experience-para{
      color: lime;
  }
- .inquiry-section{
-     background-image: url("images/Group_33094_1.png");
-     width: 400px;
-     height: 100px;
-     
 
+ 
+ .first-design{ 
+     float:left, right;
+     text-align:center;
+     margin: 10%;
+ }
+
+
+
+
+ .text-format{
+     text-align: center;
+     padding-bottom: 100px;
+     
+ }
+
+
+ #first-design{
+     text-align: left;
+     padding: 20px;
+     margin: 1px;
+ }
+ #second-design{
+     text-align: right;
+     padding: 20px;
+     margin: 1px;
+
+ }
+
+
+ #t-highlight{
+     font-size: 30px;
+     color: orange;
+ }
+ 
+
+ .img-icons img{
+     width: 30px;
  }
  
